@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
   s.name = 'google_drive'
   s.version = '3.0.7'
-  s.authors = ['Hiroshi Ichikawa']
+  s.authors = ['Hiroshi Ichikawa', 'Marko Kocic']
   s.email = ['gimite+github@gmail.com']
-  s.summary = 'A library to read/write files/spreadsheets in Google Drive/Docs.'
-  s.description = 'A library to read/write files/spreadsheets in Google Drive/Docs.'
+  s.summary = 'A library to read/write files/spreadsheets in Google Drive/Docs. PATCHED VERSION'
+  s.description = 'A library to read/write files/spreadsheets in Google Drive/Docs. PATCHED VERSION'
   s.homepage = 'https://github.com/gimite/google-drive-ruby'
   s.rubygems_version = '1.2.0'
   s.license = 'BSD-3-Clause'
